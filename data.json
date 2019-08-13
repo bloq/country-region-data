@@ -5405,7 +5405,8 @@
     "countryShortCode":"HK",
     "regions":[
       {
-        "name":"Hong Kong"
+        "name":"Hong Kong",
+        "shortCode":"HK"
       }
     ]
   },
